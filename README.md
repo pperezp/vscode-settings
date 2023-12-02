@@ -11,6 +11,9 @@
 - Material Icon Theme
 - Java Extension Pack
 - XML
+- Lombok
+- SonarLint
+- Lombok Annotations Support for VS Code
 
 # settings.json
 ```json
