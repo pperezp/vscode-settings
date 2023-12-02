@@ -15,7 +15,7 @@
 - SonarLint
 - Lombok Annotations Support for VS Code
 
-# settings.json
+# settings.json (Linux)
 ```json
 {
     "terminal.integrated.fontSize": 18,
@@ -51,6 +51,22 @@
     "window.zoomLevel": 0.3,
     "workbench.iconTheme": "vscode-icons",
     //"explorer.compactFolders": false,
+    "gitlens.codeLens.enabled": false
+}
+```
+
+# settings.json (Mac)
+```json
+{
+    "terminal.integrated.fontSize": 18,
+    "workbench.colorTheme": "IntelliJ Neo Dark",
+    "workbench.iconTheme": "material-icon-theme",
+    "editor.mouseWheelZoom": true,
+    "editor.fontSize": 14,
+    "editor.tabSize": 4,
+    "redhat.telemetry.enabled": false,
+    "CodeGPT.query.language": "Spanish",
+    "files.autoSave": "afterDelay",
     "gitlens.codeLens.enabled": false
 }
 ```
