@@ -1,3 +1,10 @@
+# Shortcuts
+## Mac
+### Terminal Integrated wrap word
+```
+option + z
+```
+
 # Complements
 - Spring Boot Tools
 - Spring Initializr
