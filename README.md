@@ -1,3 +1,19 @@
+# Complements
+- Spring Boot Tools
+- Spring Initializr
+- Spring Boot Dashboard
+- vscode-icons
+- vscode-database
+- IntelliJ IDEA Keybindings
+- Darcula IntelliJ Theme
+- GitLens
+- Maven for Java
+- Material Icon Theme
+- Java Extension Pack
+- XML
+
+# settings.json
+```json
 {
     "terminal.integrated.fontSize": 18,
     "editor.tabSize": 4,
@@ -34,3 +50,4 @@
     //"explorer.compactFolders": false,
     "gitlens.codeLens.enabled": false
 }
+```
