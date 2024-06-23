@@ -1,15 +1,28 @@
 {
     "terminal.integrated.fontSize": 18,
+    "terminal.explorerKind": "external",
+    "terminal.external.linuxExec": "fish",
+    "terminal.integrated.defaultProfile.linux": "fish",
     "editor.tabSize": 4,
     "editor.mouseWheelZoom": true,
     "editor.fontSize": 12,
     "editor.fontFamily": "monospace",
     "editor.fontVariations": false,
     "editor.fontWeight": "367",
-    "editor.lineHeight": 18,
-    "workbench.colorTheme": "IntelliJ Neo Dark",
+    "editor.lineHeight": 22,
+    "editor.parameterHints.enabled": false,
+    "editor.inlayHints.enabled": "off",
+    "editor.tokenColorCustomizations": { "variables": "#9876AA" },
     "files.autoSave": "afterDelay",
     "files.autoSaveDelay": 200,
+    "window.zoomLevel": 0.3,
+    "gitlens.codeLens.enabled": false,
+    "explorer.compactFolders": false,
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "workbench.iconTheme": "vsc-jetbrains-icons-enhanced",
+    "workbench.tree.indent": 14,
+    "workbench.colorTheme": "IntelliJ Neo Dark",
     "terminal.integrated.profiles.linux": {
         "bash": {
             "path": "bash",
@@ -29,20 +42,5 @@
             "path": "pwsh",
             "icon": "terminal-powershell"
         }
-    },
-    "terminal.explorerKind": "external",
-    "terminal.external.linuxExec": "fish",
-    "terminal.integrated.defaultProfile.linux": "fish",
-    "window.zoomLevel": 0.3,
-    "gitlens.codeLens.enabled": false,
-    "explorer.confirmDragAndDrop": false,
-    "editor.parameterHints.enabled": false,
-    "editor.inlayHints.enabled": "off",
-    "git.autofetch": true,
-    "explorer.compactFolders": false,
-    "workbench.iconTheme": "vsc-jetbrains-icons-enhanced", 
-    "editor.tokenColorCustomizations": {
-        "variables": "#9876AA"
-    },
-    "workbench.tree.indent": 18
+    }
 }
